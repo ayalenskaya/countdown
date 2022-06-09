@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.header{ 
+}
+.block__elem{
+    background-color: green;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 10px;
+}
